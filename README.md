@@ -1,6 +1,6 @@
 # Hi there, I'm Mogau Kganana 👋
 
-### Software Engineer | Full-Stack Developer 
+### Full-Stack Developer 
 
 I am a Software Engineer with an NQF6 from WeThinkCode_ and recent hands-on experience from my development internship at Xiquel Group. I specialize in full-stack web development, taking a highly practical and creative approach to problem-solving. 
 
